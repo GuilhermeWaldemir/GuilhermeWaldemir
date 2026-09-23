@@ -4,6 +4,7 @@ Estudante de **Ciência da Computação** na Universidade São Judas Tadeu, no 2
 Construo software para resolver problemas reais do meu dia a dia, do desktop à web.
 
 🔭 **Portfólio:** [guilhermewaldemir.github.io](https://guilhermewaldemir.github.io)
+📫 **Contato:** [guilhermewaldemir@outlook.com](mailto:guilhermewaldemir@outlook.com)
 🎯 Procurando a minha primeira oportunidade como **estagiário ou desenvolvedor júnior**.
 
 ### Projetos
@@ -21,6 +22,18 @@ Construo software para resolver problemas reais do meu dia a dia, do desktop à 
 **Bancos de dados:** SQLite · PostgreSQL (Supabase)
 **Testes:** JUnit 5 · pytest
 **Ferramentas:** Git · GitHub · GitHub Actions · Maven · Netlify · Render
+
+### Formação e certificações
+
+Cursando **Ciência da Computação** na Universidade São Judas Tadeu · Inglês B1
+
+| Certificação | Instituição | Carga |
+|---|---|---|
+| Especialista em Algoritmos e Programação | Universidade São Judas Tadeu | 160h |
+| Fundamentos em UX Design e Interação Humano-Computador | Universidade São Judas Tadeu | 160h |
+| Python | Santander Open Academy | 8h |
+
+Os comprovantes estão na [aba de certificados do portfólio](https://guilhermewaldemir.github.io/#certificados).
 
 ### Onde me encontrar
 
